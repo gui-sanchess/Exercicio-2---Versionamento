@@ -1,1 +1,1 @@
-print("receba")
+print("gus")
